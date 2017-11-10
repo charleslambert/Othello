@@ -1,4 +1,7 @@
 # Othello-Ruby ![alt text](https://travis-ci.org/phil0s0pher/Othello.svg?branch=master)
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/03a3cfd677e640dca0aaf0502672dcfb)](https://www.codacy.com/app/phil0s0pher/Othello?utm_source=github.com&utm_medium=referral&utm_content=phil0s0pher/Othello&utm_campaign=badger)
+
 Ruby version of Othello board game
 
 ### Requirements
